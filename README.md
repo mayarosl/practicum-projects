@@ -1,7 +1,7 @@
 # practicum-projects
 Учебные проекты, выполненные на курсе **Специалист по Data Science** (Yandex Practicum)
 
-## [Рекомендация тарифов для оператора мобильной связи](https://github.com/mayarosl/practicum-projects/tree/main#:~:text=3%20hours%20ago-,telecom_recommentations.ipynb,-add%20telecom_recommentations.ipynb)
+## [Рекомендация тарифов для оператора мобильной связи](https://github.com/mayarosl/practicum-projects/blob/main/telecom_recommentations.ipynb)
 **Задача:** построить систему, способную проанализировать поведение абонентов и предложить им новый тариф.  
 **Данные:** записи о повелении абонентов, которые уже перешли на эти тарифы.
 
